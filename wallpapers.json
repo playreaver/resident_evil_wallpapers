@@ -12,44 +12,19 @@
     },
     {
       "id": "dark_fantasy",
-      "name": "🖤 Dark Fantasy",
+      "name": "Resient Evil Vibes",
       "adult": false,
       "images": [
-        "https://i.postimg.cc/yYy0Z37J/fantasy1.jpg",
-        "https://i.postimg.cc/k5jfNkGM/darkcastel.jpg",
-        "https://i.postimg.cc/6p6nW2Bz/evil-castle.jpg",
-        "https://i.postimg.cc/0QygN8vF/dragon-knight.jpg"
-      ]
-    },
-    {
-      "id": "cyberpunk",
-      "name": "💠 Cyberpunk 2077",
-      "adult": false,
-      "images": [
-        "https://i.postimg.cc/dtdY54wF/cyber1.jpg",
-        "https://i.postimg.cc/VkzDvW4c/cyber2.jpg",
-        "https://i.postimg.cc/t4j0wxWB/cyberpunk-city.jpg",
-        "https://i.postimg.cc/LXJXyvC8/neon-blade.jpg"
-      ]
-    },
-    {
-      "id": "silent_hill",
-      "name": "🌫️ Silent Hill",
-      "adult": false,
-      "images": [
-        "https://i.postimg.cc/9fMqXTzq/silent1.jpg",
-        "https://i.postimg.cc/y8YNJhSx/silent2.jpg",
-        "https://i.postimg.cc/rpVz5NkP/fog-world.jpg"
+        "https://i.postimg.cc/1zKPs2S5/wp12666647-4k-resident-evil-wallpapers.jpg",
+        "https://i.postimg.cc/mkKWmGY1/wp12348996-resident-evil-pc-wallpapers.jpg",
       ]
     },
     {
       "id": "adult_18plus",
-      "name": "🔞 18+ Dark Mature",
+      "name": "🔞 18+ Hot Boy Leon",
       "adult": true,
       "images": [
-        "https://i.postimg.cc/5yX5KpLv/adult1.jpg",
-        "https://i.postimg.cc/6pXVfGgc/adult2.jpg",
-        "https://i.postimg.cc/NFjY5v6C/adult3.jpg"
+
       ]
     }
   ]
