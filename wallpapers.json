@@ -7,7 +7,9 @@
       "images": [
         "https://i.postimg.cc/cLmDsyZd/1282336.jpg",
         "https://i.postimg.cc/QCFgbgtt/wp12281909-2023-pc-games-wallpapers.jpg",
-        "https://i.postimg.cc/zGtS6XLP/wp4984536-leon-resident-evil-wallpapers.jpg"
+        "https://i.postimg.cc/zGtS6XLP/wp4984536-leon-resident-evil-wallpapers.jpg",
+        "https://i.postimg.cc/dVmD8gJj/wp7297640-resident-evil-2-claire-redfield-wallpapers.jpg",
+        "https://i.postimg.cc/9MzPMZvf/wp12666822.jpg"
       ]
     },
     {
@@ -19,6 +21,14 @@
         "https://i.postimg.cc/mkKWmGY1/wp12348996-resident-evil-pc-wallpapers.jpg"
       ]
     },
+    {
+      "id": "umbrella",
+      "name": "Umbrella",
+      "adult": false,
+      "images": [
+        "https://i.postimg.cc/HxPrr5d7/wp12380601-4k-resident-evil-wallpapers.jpg"
+      ]
+    }, 
     {
       "id": "adult_18plus",
       "name": "🔞 18+ Hot Boy Leon",
